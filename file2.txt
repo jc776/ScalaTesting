@@ -1,0 +1,1 @@
+This new file would make a better incremental commit.
