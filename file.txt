@@ -3,3 +3,5 @@ Here's a line at the start.
 This is a text file.
 
 I added a line.
+
+Here's a line at the end.
